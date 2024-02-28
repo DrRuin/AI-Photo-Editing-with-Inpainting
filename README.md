@@ -11,3 +11,5 @@ The process of this project involves a user uploading an image and selecting the
 - SAM Facebook Model (Base)
 - Promptings
 - Hyperparameters Modifications (To generate different outputs)
+
+For a detailed look into the analysis, check out this [Jupyter Notebook](https://nbviewer.org/github/DrRuin/AI-Photo-Editing-with-Inpainting/blob/main/starter.ipynb)
